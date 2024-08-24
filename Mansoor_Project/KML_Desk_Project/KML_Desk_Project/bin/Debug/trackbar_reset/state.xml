@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<State>
+  <Brightness>50</Brightness>
+  <Exposure>50</Exposure>
+  <Contrast>50</Contrast>
+  <Sharpness>0</Sharpness>
+  <Saturation>50</Saturation>
+  <Highlights>50</Highlights>
+  <FlipX>false</FlipX>
+  <FlipY>false</FlipY>
+  <ZoomFactor>0.1</ZoomFactor>
+  <PictureBoxSize>
+    <Width>937</Width>
+    <Height>940</Height>
+  </PictureBoxSize>
+  <PictureBoxLocation>
+    <X>-59</X>
+    <Y>-159</Y>
+  </PictureBoxLocation>
+</State>

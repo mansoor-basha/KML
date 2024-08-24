@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EffectsSettingsList>
+  <EffectsSettings Time="15:32:41">
+    <Brightness>77</Brightness>
+    <Exposure>30</Exposure>
+    <Contrast>50</Contrast>
+    <Sharpness>0</Sharpness>
+    <Saturation>50</Saturation>
+    <Highlights>30</Highlights>
+  </EffectsSettings>
+  <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+  <EffectsSettings Time="15:33:38">
+    <Brightness>29</Brightness>
+    <Exposure>30</Exposure>
+    <Contrast>60</Contrast>
+    <Sharpness>-51</Sharpness>
+    <Saturation>66</Saturation>
+    <Highlights>42</Highlights>
+  </EffectsSettings>
+  <!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+  <EffectsSettings Time="15:59:51">
+    <Brightness>38</Brightness>
+    <Exposure>44</Exposure>
+    <Contrast>53</Contrast>
+    <Sharpness>21</Sharpness>
+    <Saturation>59</Saturation>
+    <Highlights>47</Highlights>
+  </EffectsSettings>
+</EffectsSettingsList>
